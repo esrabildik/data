@@ -3,7 +3,7 @@
     {
       "section_id": 1,
       "section_name":"Elephant Island",
-      "section_image_url": ",
+      "section_image_url": "https://raw.githubusercontent.com/esrabildik/data/main/elephant.svg",
       "levels": [
         {
           "level_id": 1,
