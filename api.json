@@ -35,16 +35,14 @@
               "english": "How old are you?",
               "turkish": "Kaç yaşındasın?"
             }
-            // Diğer içerikler buraya eklenecek
           ]
         }
-        // 8 adet daha level eklenebilir
       ]
     },
     {
       "section_id": 2,
       "section_name": "Rabbit Island",
-      "section_image_url": ",
+      "section_image_url":"https://raw.githubusercontent.com/esrabildik/data/main/rabbit.svg",
       "levels": [
         {
           "level_id": 1,
@@ -60,7 +58,6 @@
               "english": "Good night!",
               "turkish": "İyi geceler!"
             }
-            // Diğer içerikler buraya eklenecek
           ]
         },
         {
