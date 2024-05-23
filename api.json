@@ -1,0 +1,85 @@
+{
+  "sections": [
+    {
+      "section_id": 1,
+      "section_name":"Elephant Island",
+      "section_image_url": ",
+      "levels": [
+        {
+          "level_id": 1,
+          "level_name": "Level 1",
+          "contents": [
+            {
+              "id": 1,
+              "english": "Hi! I am Esra.",
+              "turkish": "Merhaba! Ben Esra."
+            },
+            {
+              "id": 2,
+              "english": "Where are you from?",
+              "turkish": "Nerelisin?"
+            }
+          ]
+        },
+        {
+          "level_id": 2,
+          "level_name":"Level 2",
+          "contents": [
+            {
+              "id": 1,
+              "english": "What is your name?",
+              "turkish": "Adın ne?"
+            },
+            {
+              "id": 2,
+              "english": "How old are you?",
+              "turkish": "Kaç yaşındasın?"
+            }
+            // Diğer içerikler buraya eklenecek
+          ]
+        }
+        // 8 adet daha level eklenebilir
+      ]
+    },
+    {
+      "section_id": 2,
+      "section_name": "Rabbit Island",
+      "section_image_url": ",
+      "levels": [
+        {
+          "level_id": 1,
+          "level_name":"Level 1",
+          "contents": [
+            {
+              "id": 1,
+              "english": "Good morning!",
+              "turkish": "Günaydın!"
+            },
+            {
+              "id": 2,
+              "english": "Good night!",
+              "turkish": "İyi geceler!"
+            }
+            // Diğer içerikler buraya eklenecek
+          ]
+        },
+        {
+          "level_id": 2,
+          "level_name":"Level 2",
+          "contents": [
+            {
+              "id": 1,
+              "english": "See you later!",
+              "turkish": "Görüşürüz!"
+            },
+            {
+              "id": 2,
+              "english": "Goodbye!",
+              "turkish": "Hoşça kal!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
