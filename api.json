@@ -8,6 +8,7 @@
         {
           "level_id": 1,
           "level_name": "Level 1",
+          "level_image_url": "https://raw.githubusercontent.com/esrabildik/data/main/elephant.svg",
           "contents": [
             {
               "id": 1,
@@ -24,6 +25,7 @@
         {
           "level_id": 2,
           "level_name":"Level 2",
+          "level_image_url": "https://raw.githubusercontent.com/esrabildik/data/main/elephant.svg",
           "contents": [
             {
               "id": 1,
@@ -47,6 +49,7 @@
         {
           "level_id": 1,
           "level_name":"Level 1",
+          "level_image_url":"https://raw.githubusercontent.com/esrabildik/data/main/rabbit.svg",
           "contents": [
             {
               "id": 1,
@@ -63,6 +66,7 @@
         {
           "level_id": 2,
           "level_name":"Level 2",
+          "level_image_url":"https://raw.githubusercontent.com/esrabildik/data/main/rabbit.svg",
           "contents": [
             {
               "id": 1,
