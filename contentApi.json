@@ -1,0 +1,45 @@
+{
+  "contents": [
+    {
+      "levelId": 1,
+      "items": [
+        {
+          "contentId": 1,
+          "english": "Hi! I am Esra.",
+          "turkish": "Merhaba ben Esra",
+          "options": [
+            {
+              "optionId": 1,
+              "text": "Merhaba ben Esra",
+              "isCorrect": true
+            },
+            {
+              "optionId": 2,
+              "text": "Merhaba ben Ali",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "contentId": 2,
+          "english": "Where are you from?",
+          "turkish": "Nerelisin",
+          "options": [
+            {
+              "optionId": 1,
+              "text": "Nerelisin",
+              "isCorrect": true
+            },
+            {
+              "optionId": 2,
+              "text": "Kaç yaşındasın",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "status": 200,
+  "message": "Success"
+}
