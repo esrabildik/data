@@ -1,0 +1,81 @@
+{
+  "sections": [
+    {
+      "sectionId": 1,
+      "name": "Frog Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/woolly-frog-looking-into-magnifying-glass.svg"
+    },
+    {
+      "sectionId": 2,
+      "name": "Bear Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/woolly-white-bear.svg"
+    },
+    {
+      "sectionId": 3,
+      "name": "Seal Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/scandi-153.svg"
+    },
+    {
+      "sectionId": 4,
+      "name": "Duck Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/duck.svg"
+    },
+    {
+      "sectionId": 5,
+      "name": "Fish Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/hue-yellow-fish-2.svg"
+    },
+    {
+      "sectionId": 6,
+      "name": "Chicken Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/glazy-chicken.svg"
+    },
+    {
+      "sectionId": 7,
+      "name": "Dog Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/business-3d-dog-astronaut-floating.svg"
+    },
+    {
+      "sectionId": 8,
+      "name": "Dear Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/3d-holidays-christmas-carousel-with-reindeer.svg"
+    },
+    {
+      "sectionId": 9,
+      "name": "Crab Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/scandi-41.svg"
+    },
+    {
+      "sectionId": 10,
+      "name": "Elephant Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/elephant.svg"
+    },
+    {
+      "sectionId": 11,
+      "name": "Rabbit Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/rabbit.svg"
+    },
+    {
+      "sectionId": 12,
+      "name": "Dolphin Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/hue-dolphin.svg"
+    },
+    {
+      "sectionId": 13,
+      "name": "Butterfly Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/flare-blue-butterfly.svg"
+    },
+    {
+      "sectionId": 14,
+      "name": "Penguin Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/3d-casual-life-little-penguin-1.svg"
+    },
+    {
+      "sectionId": 15,
+      "name": "Dinosaur Island",
+      "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/props-diplodocuses.svg"
+    }
+  ],
+  "success": 200,
+  "message": "Successful"
+}

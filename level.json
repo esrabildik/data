@@ -1,0 +1,46 @@
+{
+  "levels": [
+    {
+      "sectionId": 1,
+      "levels": [
+        {
+          "levelId": 1,
+          "name": "Level 1",
+          "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/woolly-frog-looking-into-magnifying-glass.svg"
+        },
+        {
+          "levelId": 2,
+          "name": "Level 2",
+          "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/woolly-frog-looking-into-magnifying-glass.svg"
+        },
+        {
+          "levelId": 3,
+          "name": "Level 3",
+          "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/woolly-frog-looking-into-magnifying-glass.svg"
+        }
+      ]
+    },
+    {
+      "sectionId": 2,
+      "levels": [
+        {
+          "levelId": 4,
+          "name": "Level 1",
+          "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/woolly-white-bear.svg"
+        },
+        {
+          "levelId": 5,
+          "name": "Level 2",
+          "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/woolly-white-bear.svg"
+        },
+        {
+          "levelId": 6,
+          "name": "Level 3",
+          "imageUrl": "https://raw.githubusercontent.com/esrabildik/data/main/woolly-white-bear.svg"
+        }
+      ]
+    }
+  ],
+  "status": 200,
+  "message": "Success"
+}
