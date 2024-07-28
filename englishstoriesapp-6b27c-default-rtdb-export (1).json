@@ -61,7 +61,7 @@
           "part_two_text": "Two siblings, Sophie and James, were taken to a shelter by their father when they were very young, and they stayed there for six years. Their father had planned to return to the shelter to find a solution to the virus, but when he didn’t come back for a long time, they realized staying in the shelter was becoming dangerous. They decided to venture outside.",
           "title": "The Rain"
         },
-        "id": 13,
+        "id": 2,
         "isFavorite": false,
         "level": "B1",
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/b3.1.svg?alt=media&token=11a5a0d4-3de0-4474-a66f-100c9c991df0",
@@ -85,7 +85,7 @@
           "part_two_text": "Emily and Jack quickly become close friends. Jack changes Emily's perspective on life and teaches her to live each moment to the fullest. Together, they embark on small but meaningful adventures. They explore the streets of Istanbul, watch the stars on the beach, and share their dreams.",
           "title": "Under the Stars"
         },
-        "id": 2,
+        "id": 3,
         "isFavorite": false,
         "level": "B1",
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/d1.1.svg?alt=media&token=eebe3f7d-c92a-46ee-9526-7b0f85a3b695",
@@ -107,7 +107,7 @@
           "part_two_text": "Lila arrived at her new home with great excitement and a bit of fear. The farm seemed large and unfamiliar to her. Anna and Peter began doing everything they could to light up the darkness within Lila and provide her with a loving home. At first, Lila struggled to adjust to the vast areas of the farm, but over time, she started connecting with the natural beauty and animals around her.",
           "title": "Life on the Farm"
         },
-        "id": 9,
+        "id": 4,
         "isFavorite": false,
         "level": "B1",
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/d2.1.svg?alt=media&token=7c4a7c3d-c71f-41ac-b41b-634176ef87f4",
@@ -129,7 +129,7 @@
           "part_two_text": "One day, in the dark basement of the orphanage, he encountered Mr. Collins, the janitor. Mr. Collins was a man who loved solving chess puzzles, and he noticed Jack’s talent.",
           "title": "The Royal Gambit"
         },
-        "id": 10,
+        "id": 5,
         "isFavorite": false,
         "level": "B1",
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/d3.1.svg?alt=media&token=931f64a8-2bae-4b14-964f-dee4ccabfd12",
@@ -151,7 +151,7 @@
           "part_two_text": "When David first arrives in the village, he starts his work with great enthusiasm and energy. However, he soon realizes that the girls in the village do not attend school. The village elders argue that girls do not need an education; they should stay at home and take care of household chores.",
           "title": "Seeds of Hope"
         },
-        "id": 12,
+        "id": 6,
         "isFavorite": false,
         "level": "B1",
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/d4.1.svg?alt=media&token=687bdf08-5f37-4712-8c79-ed101a2a80f6",
@@ -173,7 +173,7 @@
           "part_two_text": "As the storm grew more violent, Princess wandered the streets, her fur drenched and her tiny paws sinking into the muddy ground. She meowed plaintively, searching desperately for shelter.",
           "title": "The Stormy Night"
         },
-        "id": 11,
+        "id": 7,
         "isFavorite": false,
         "level": "B1",
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/d5.1.svg?alt=media&token=412e1a90-baf8-45d1-a1c0-4bd2d54dc280",
@@ -198,7 +198,7 @@
           "part_two_text": "Shortly after moving to town, Lucas started attending the local school. He was quiet and reserved in class, but he immediately caught Elena's attention. Lucas had pale skin and deep, secretive eyes. As Elena got to know Lucas, she felt an undeniable attraction towards him.",
           "title": "Secrets of the Hidden Lake"
         },
-        "id": 4,
+        "id": 8,
         "isFavorite": false,
         "level": "B1",
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/f1.1.svg?alt=media&token=4da5f778-0273-40d8-be45-db2bc743d52a",
@@ -220,7 +220,7 @@
           "part_two_text": "At the wizarding school, Lily learns various spells and makes new friends. However, rumors of dark forces rising again circulate through the school. Lily, along with a brave and intelligent boy named Jack, begins to investigate these dark forces.",
           "title": "School of Wizards"
         },
-        "id": 5,
+        "id": 9,
         "isFavorite": false,
         "level": "B1",
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/f2.1.svg?alt=media&token=09501e25-07e9-4661-b025-229dbabe9392",
@@ -242,7 +242,7 @@
           "part_two_text": "One day, Emily finds a key in the mansion’s library. The key catches her attention with its strange symbols. Driven by curiosity, she begins to investigate with her siblings to find out where the key belongs. They discover a hidden door in the basement and use the key to unlock it. Beyond the door, they are greeted by a magical and mysterious world.",
           "title": "The Secret of the Keys"
         },
-        "id": 6,
+        "id": 10,
         "isFavorite": false,
         "level": "B1",
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/f3.1.svg?alt=media&token=4ff5b186-5ae7-46bb-b913-168d11fb44e1",
@@ -264,7 +264,7 @@
           "part_two_text": "In the lab, Alex accidentally touches a button, causing power outages throughout the town. Simultaneously, a door deep within the lab opens, leading to a dark and dangerous parallel universe known as the World of Shadows. In this world, terrifying creatures and bizarre events await them.",
           "title": "The World of Shadows"
         },
-        "id": 7,
+        "id": 11,
         "isFavorite": false,
         "level": "B1",
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/f4.1.svg?alt=media&token=4e5cbc11-7efb-403f-8466-0db0a3807d54",
@@ -286,7 +286,7 @@
           "part_two_text": "Selin embarks on a dangerous journey through the forest’s depths. As she navigates the foggy and shadowy regions, she encounters eerie whispers and moving shadows. She is surrounded by a group of cursed creatures. To resolve the situation, Selin uses the Wind's Speed spell. This spell allows Selin to move swiftly and temporarily outpaces the creatures.",
           "title": "The Curse of the Dark Forest"
         },
-        "id": 8,
+        "id": 12,
         "isFavorite": false,
         "level": "B1",
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/f5.1.svg?alt=media&token=a4681345-13cf-4b22-9d8b-802266db22a0",
@@ -308,7 +308,7 @@
           "part_two_text": "The Parker family had learned to live in this silent world. Father Jack, mother Emily, and their children, Luke and young Olivia, had learned to survive thanks to their strong bond. In their daily lives, they were careful not to make any noise. They wore quiet slippers, communicated with sign language, and sprinkled sand on their paths to muffle their footsteps.",
           "title": "Silent Hill"
         },
-        "id": 14,
+        "id": 13,
         "isFavorite": false,
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/f6.1.svg?alt=media&token=7c974b45-ddee-4f12-b411-574cf962c89f",
         "title": "Silent Hill"
