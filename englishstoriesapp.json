@@ -3,6 +3,7 @@
     "bilim": [
       {
         "details": {
+          "id": 0,
           "part_eight_text": "",
           "part_five_text": "In the end, Alex successfully brings Sarah back from the virtual world and exposes the dangers of this technology. People return from virtual reality and resume their lives in the real world. Through this journey, Alex not only wins his internal battle but also achieves a significant victory for humanity.",
           "part_four_text": "Alex learns about the existence of a company that controls the virtual world and manipulates people. This company traps people in the virtual world by controlling their minds. Alex fights to save Sarah and to stop this dark company.",
@@ -25,6 +26,7 @@
       },
       {
         "details": {
+          "id": 1,
           "part_eight_text": "",
           "part_five_text": "At the end of the mission, Nathan begins to question the ethical and moral implications of this technology. He decides to abandon the dream hunting business and cease his work on the technology, choosing instead to seek a more ethical and humane path.",
           "part_four_text": "Eventually, Nathan reaches the deepest fears and traumas of the businessman's mind. During this process, he also confronts the dark secrets of his own subconscious. The team, overcoming significant challenges and dangers, completes the mission and plants the desired idea in the businessman's mind.",
@@ -47,6 +49,7 @@
       },
       {
         "details": {
+          "id": 2,
           "part_eight_text": "In the end, Sophie and James succeeded in setting up a rain filtration system that prevented the virus from spreading again, and they set out with hope to rebuild the world. The hardships they endured and the experiences they gained made them stronger. ",
           "part_five_text": "Sophie and James discovered that their father had developed the virus and designed it to spread through rain. This information was both painful and a powerful motivation. The siblings uncovered their father's role in the disaster and the secrets of their family's past.",
           "part_four_text": "On their journey, they encountered a surviving group called \"The Resistance.\" This group was working to fight the virus and restore the old order. Sophie and James met the group’s members and learned important information about their father’s projects. These new friends gave them hope and assisted them in their efforts to stop the virus.",
@@ -71,6 +74,7 @@
     "dram": [
       {
         "details": {
+          "id": 3,
           "part_eight_text": "",
           "part_five_text": "",
           "part_four_text": "That night, Jack passes away, but he leaves Emily with unforgettable memories and the importance of living life fully. To honor Jack's memory, Emily decides to fulfill his dreams and starts studying medicine at university. Jack's legacy lives on in Emily's life and heart forever.",
@@ -93,6 +97,7 @@
       },
       {
         "details": {
+          "id": 4,
           "part_eight_text": "Lila’s story is an inspiring tale that shows how a loving family environment and proper support can nurture strong and successful individuals. Farm life provided Lila not just a home but also an opportunity to find herself and look to the future with hope. \"Life on the Farm\" remains a touching story that illustrates that nothing is impossible and that love can heal every wound.",
           "part_five_text": "One day, Lila learned that an old friend from the orphanage had moved to the town, which caused her emotional turmoil. Her old friend reminded her of the tough days they had experienced at the orphanage but also witnessed how Lila had become a strong and independent individual. This encounter helped Lila face her past and leave that period behind. She supported her old friend and helped them adjust to their new life.",
           "part_four_text": "At school, however, Lila faced some challenges. The other children found her background from the orphanage strange and began to tease her. But Lila had classmates Emma and Thomas by her side. These two children saw the goodness and courage within Lila. Thanks to them, Lila started adjusting to school and became close friends with Emma and Thomas. The three of them played games and had many adventures together.",
@@ -115,6 +120,7 @@
       },
       {
         "details": {
+          "id": 5,
           "part_eight_text": "In the end, Jack won the Moscow tournament and achieved a great victory.",
           "part_five_text": "As a young player, Jack began participating in international chess tournaments. Each victory brought him fame but also forced him to confront his personal problems.",
           "part_four_text": "When he left the orphanage, he was adopted by a family who recognized his chess skills and supported him. However, his inner struggles soon emerged. His achievements in chess were overshadowed by his personal issues.",
@@ -137,6 +143,7 @@
       },
       {
         "details": {
+          "id": 6,
           "part_eight_text": "After the theater night, many families in the village decide to send their daughters to school. David begins to see more and more girls in his classroom. The girls share the importance of education and going to school with their families and surroundings. David takes pride in seeing that he has changed the educational perspective in the village and touched the lives of the girls.",
           "part_five_text": "David’s efforts gradually begin to bear fruit. A few families agree to send their daughters to school. At first, only a few girls come to the classroom, but this is a huge success for David. These girls become role models for other children and share the excitement of reading and writing.",
           "part_four_text": "To create awareness in the village, David decides to organize various activities. He holds educational seminars in the village square, opens literacy courses, and starts public relations activities. He pays special attention to the boys and mothers in the village, explaining to them the value of education.",
@@ -159,6 +166,7 @@
       },
       {
         "details": {
+          "id": 7,
           "part_eight_text": "And so, the tale of the stormy night became a cherished memory for Ella and Princess, a reminder of how a single act of kindness can transform lives and forge lifelong friendships.",
           "part_five_text": "Once inside, Ella wrapped Princess in a soft, warm blanket and set her down by the crackling fire. Princess's fur slowly dried, and she purred contentedly as Ella lovingly stroked her. Ella's parents, touched by the scene, offered Princess a bowl of warm milk, which she eagerly lapped up.",
           "part_four_text": "Ella’s heart raced as she finally reached Princess, who was shivering uncontrollably. With gentle hands, Ella scooped the soaked cat into her arms, shielding her from the relentless rain with the umbrella. They both trudged back through the storm, Ella’s shoes squelching in the puddles.",
@@ -181,9 +189,9 @@
       }
     ],
     "fantastic": [
-      null,
       {
         "details": {
+          "id": 8,
           "part_eight_text": "In the end, Elena and Lucas found solace in the 'Hidden Lake', a mystical place deep within the town that enhanced vampires' powers. Lucas decided to use this power to stay by Elena's side and protect her.",
           "part_five_text": "Gathering her courage, Elena directly asked Lucas about his secret. Lucas finally revealed the truth: he was a vampire who had been alive for centuries. He had moved to the town to hide from other vampires. Instead of feeding on human blood, Lucas sustained himself on animal blood and tried hard not to harm anyone.",
           "part_four_text": "One evening, while Elena was walking in the forest, she encountered a pack of wolves. Just as the wolves were about to attack, Lucas suddenly appeared and drove them away. Elena saw Lucas move with extraordinary speed and stop the wolves with just a glance. This incident made Elena realize that Lucas was no ordinary person.",
@@ -206,6 +214,7 @@
       },
       {
         "details": {
+          "id": 9,
           "part_eight_text": "",
           "part_five_text": "Lily’s adventures are filled with her courage, intelligence, and friendships. The wizarding school is remembered as the place where Lily’s journey of growth and self-discovery began.",
           "part_four_text": "With the spells she learned at school and her courage, Lily confronts and defeats the dark forces. Together with Jack, she hides the artifact in a safe place and protects the school. Lily is now known as the hero of the school and earns great respect in the wizarding world.",
@@ -228,6 +237,7 @@
       },
       {
         "details": {
+          "id": 10,
           "part_eight_text": "",
           "part_five_text": "Emily and her siblings fight against the dark forces using the keys. During this time, they learn that their grandfather was also a user of the keys in the past and had fought the same dark forces. Following the clues left by their grandfather, they discover the true power and purpose of the keys.",
           "part_four_text": "The siblings embark on a great struggle to protect the keys and prevent them from falling into the hands of these dark forces. In this struggle, each key holds a different secret and power. For instance, one key allows the user to control time, while another grants invisibility.",
@@ -250,6 +260,7 @@
       },
       {
         "details": {
+          "id": 11,
           "part_eight_text": "",
           "part_five_text": "With Max’s help, the group learns how to fight the creatures and close the door to the World of Shadows. They face a fierce battle and finally return to the lab. However, the leader of the creatures, a terrifying monster, is on the verge of crossing into the town.",
           "part_four_text": "Alex, Mia, Jack, and Emma must find a way to prevent these creatures from crossing into their town. During their quest, they encounter another child, Max, who had been lost in this world. Max has survived in the World of Shadows and learned how to deal with the creatures.",
@@ -272,6 +283,7 @@
       },
       {
         "details": {
+          "id": 12,
           "part_eight_text": "",
           "part_five_text": "In the forest’s depths, Selin encounters the source of the curse, the Dark Lord. The Dark Lord’s power permeates every corner of the forest, making it challenging to confront him. The Dark Lord presents a significant threat to Selin and controls the dark shadows over the forest.",
           "part_four_text": "She protects herself using the Shield of Light spell. The shield creates a protective light area against the dark spirits' attacks. This light reduces the spirits’ shadowy influence and ensures Selin’s safety. She moves quickly to maintain the shield’s power and manages to escape from the temple.",
@@ -294,6 +306,7 @@
       },
       {
         "details": {
+          "id": 13,
           "part_eight_text": "Emily and the children improve their survival skills in their new location. They form a silent community and begin to live together with other survivors. This new order, where everyone's contribution is valued, is based on silence and mutual support. The Parker family finds new hope thanks to Jack's sacrifice and continues to survive in the silent world.",
           "part_five_text": "Emily's labor pains begin, and she is left alone at home while Jack is dealing with the children. Emily tries various methods to suppress the sounds during childbirth and struggles greatly. Finally, the baby is born, but its cries pose a significant threat. Emily must find a way to keep the baby quiet.",
           "part_four_text": "While searching for food in the forest, Luke and Olivia accidentally make a sound. This draws the monsters' attention, and they begin to follow them. The children are in great danger as they try to escape silently. Jack moves to rescue his children and faces the monsters.",
