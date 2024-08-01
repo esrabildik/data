@@ -69,6 +69,29 @@
         "level": "B1",
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/b3.1.svg?alt=media&token=11a5a0d4-3de0-4474-a66f-100c9c991df0",
         "title": "The Rain"
+      },
+      {
+        "details": {
+          "id": 3,
+          "part_eight_text": "Young Adrian returns home knowing that the future is saved and his father's legacy is secure. Armed with the knowledge of his father's work and the secrets of time, Adrian decides to use this information to serve humanity in his future life.",
+          "part_five_text": "Along the way, Adrian and his older self encounter their father's old colleagues and friends, working together to unravel the mysteries of time.",
+          "part_four_text": "Adrian and his older self set out to find their father's old laboratory and correct past events. During this process, they travel to different periods in time. Each journey reveals more about their father's work and how time has been manipulated.",
+          "part_nine_text": "The older Adrian's sacrifice leaves a profound impact on young Adrian, making him stronger and more determined.",
+          "part_one_image": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/b3.1.svg?alt=media&token=11a5a0d4-3de0-4474-a66f-100c9c991df0",
+          "part_one_text": "A young boy named Adrian is 12 years old and lives with his mother in a quiet town. Adrian's father passed away in a mysterious accident years ago. Adrian knows that his father was a scientist who worked on time travel.",
+          "part_seven_text": "In the end, Adrian and his older self succeed in correcting the flow of time and neutralizing the malicious scientist. However, the changes made by the older Adrian in time jeopardize his own existence. To ensure the safety of the future, the older Adrian makes a great sacrifice, choosing to embark on a one-way journey through time from which he cannot return.",
+          "part_six_text": "Adrian and his older self eventually confront the malicious scientist responsible for manipulating time. This scientist was once a student of Adrian's father and has stolen his work to control time travel. Adrian and his older self engage in a fierce battle to stop this malicious scientist and restore the flow of time.",
+          "part_three_image": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/b3.3.svg?alt=media&token=f0374859-41c4-4ecf-a84b-48a2220a9fda",
+          "part_three_text": "Adrian starts examining the device he found. It is filled with strange symbols and buttons. Adrian accidentally activates the device, and an energy wave forms in the garage. Suddenly, a 30-year-old man appears in the middle of the garage. This man is Adrian's future self. He has traveled back in time 20 years to his own childhood.",
+          "part_two_image": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/b3.2.svg?alt=media&token=5e70659c-2103-405a-8efa-cccfd8924684",
+          "part_two_text": "One day, while rummaging through old things in their garage, Adrian finds a mysterious device.",
+          "title": "The Rain"
+        },
+        "id": 2,
+        "isFavorite": false,
+        "level": "B1",
+        "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/b3.1.svg?alt=media&token=11a5a0d4-3de0-4474-a66f-100c9c991df0",
+        "title": "The Rain"
       }
     ],
     "dram": [
