@@ -1,6 +1,29 @@
 {
   "categories": {
     "bilim": [
+            {
+        "details": {
+          "id": 18,
+          "part_eight_text": "As life in the city returns to normal, Ethan, Olivia, Liam, Ava, and Noah make a fresh start. They have mastered their powers and come together to serve humanity. While continuing to investigate the mysteries behind the electrical storm and the source of their powers, they learn to be prepared for possible future threats.",
+          "part_five_text": "The five heroes set out to find the source of their powers and the scientist controlling them. They discover the scientist’s secret laboratory, leading to a massive confrontation. The scientist intends to use their powers for his own benefit and take complete control of the city. Ethan and his friends must use their powers at full strength to stop the scientist’s plans.",
+          "part_four_text": "Ethan, Olivia, Liam, Ava, and Noah unite their powers to fight against the city's criminals. During this process, they learn how to use their powers more effectively and build trust in each other. However, they discover a greater threat behind the criminals: a mysterious scientist who created the electrical storm and plans to use their powers to control the city for his own gain.",
+          "part_nine_text": "They are now the protectors and beacons of hope for the city.",
+          "part_one_image": "https://raw.githubusercontent.com/esrabildik/data/main/b7.1.svg",
+          "part_one_text": "In the near future, ordinary people living in a big city begin to gain incredible powers after a sudden electrical storm. These powers both endanger them and burden them with great responsibilities. Our story revolves around five people who gained powers during the electrical storm: Ethan, Olivia, Liam, Ava, and Noah. Each of these individuals has different abilities, and they come together to protect their city and loved ones.",
+          "part_seven_text": "The city slowly begins to return to normal, and the five heroes decide to use their powers for the benefit of humanity.",
+          "part_six_text": "Ethan, Olivia, Liam, Ava, and Noah successfully thwart the scientist’s plans and end the chaos in the city. Throughout this process, they learn that their powers are merely tools and that true strength lies in working together and trusting each other.",
+          "part_three_image": "https://raw.githubusercontent.com/esrabildik/data/main/b7.3.svg",
+          "part_three_text": "As these five individuals try to control their powers, they encounter increasing electrical anomalies in the city. The electrical storm has damaged the city's energy infrastructure, creating widespread chaos. Criminals in the city take advantage of this chaos, orchestrating robberies and attacks. Ethan and his friends decide to combine their powers to stop these criminals and protect the city.",
+          "part_two_image": "https://raw.githubusercontent.com/esrabildik/data/main/b7.2.svg",
+          "part_two_text": "Ethan, living in the city, wakes up one morning to find he can control electrical energy. Everything he touches fills with electricity, and he struggles to control this power. Olivia gains the ability to absorb energy from people she touches, while Liam can manipulate electrical waves. Ava can accelerate herself with electrical energy, and Noah can move objects using electrical energy.",
+          "title": "City of Electricity"
+        },
+        "id":18,
+        "isFavorite": false,
+        "level": "B1",
+        "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/b7.1.svg",
+        "title": "City of Electricity"
+      },
       {
         "details": {
           "id": 0,
