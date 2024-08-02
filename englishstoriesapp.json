@@ -283,6 +283,29 @@
     "fantastic": [
       {
         "details": {
+          "id": 9,
+          "part_eight_text": "",
+          "part_five_text": "Lily’s adventures are filled with her courage, intelligence, and friendships. The wizarding school is remembered as the place where Lily’s journey of growth and self-discovery began.",
+          "part_four_text": "With the spells she learned at school and her courage, Lily confronts and defeats the dark forces. Together with Jack, she hides the artifact in a safe place and protects the school. Lily is now known as the hero of the school and earns great respect in the wizarding world.",
+          "part_nine_text": "",
+          "part_one_image": "https://raw.githubusercontent.com/esrabildik/data/main/f2.1.svg",
+          "part_one_text": "Lily is a young girl living an ordinary life. One day, she learns a big secret her family has been hiding: she comes from an ancient line of wizards and has magical abilities.",
+          "part_seven_text": "",
+          "part_six_text": "",
+          "part_three_image": "https://raw.githubusercontent.com/esrabildik/data/main/f2.3.svg",
+          "part_three_text": "During their investigation, Lily and Jack discover an ancient and powerful magical artifact hidden in the depths of the school. This artifact holds great power that could allow dark forces to seize control. Lily and Jack embark on a great struggle to protect this artifact and prevent it from falling into the hands of the dark forces.",
+          "part_two_image": "https://raw.githubusercontent.com/esrabildik/data/main/f2.2.svg",
+          "part_two_text": " Lily is accepted into a secret wizarding school to discover and develop these abilities.",
+          "title": "School of Wizards"
+        },
+        "id": 9,
+        "isFavorite": false,
+        "level": "B1",
+        "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/f2.1.svg",
+        "title": "School of Wizards"
+      },
+      {
+        "details": {
           "id": 8,
           "part_eight_text": "In the end, Elena and Lucas found solace in the 'Hidden Lake', a mystical place deep within the town that enhanced vampires' powers. Lucas decided to use this power to stay by Elena's side and protect her.",
           "part_five_text": "Gathering her courage, Elena directly asked Lucas about his secret. Lucas finally revealed the truth: he was a vampire who had been alive for centuries. He had moved to the town to hide from other vampires. Instead of feeding on human blood, Lucas sustained himself on animal blood and tried hard not to harm anyone.",
@@ -303,29 +326,6 @@
         "level": "B1",
         "picUrl": "https://firebasestorage.googleapis.com/v0/b/englishstoriesapp-6b27c.appspot.com/o/f1.1.svg?alt=media&token=4da5f778-0273-40d8-be45-db2bc743d52a",
         "title": "Secrets of the Hidden Lake"
-      },
-      {
-        "details": {
-          "id": 9,
-          "part_eight_text": "",
-          "part_five_text": "Lily’s adventures are filled with her courage, intelligence, and friendships. The wizarding school is remembered as the place where Lily’s journey of growth and self-discovery began.",
-          "part_four_text": "With the spells she learned at school and her courage, Lily confronts and defeats the dark forces. Together with Jack, she hides the artifact in a safe place and protects the school. Lily is now known as the hero of the school and earns great respect in the wizarding world.",
-          "part_nine_text": "",
-          "part_one_image": "https://raw.githubusercontent.com/esrabildik/data/main/f2.2.svg",
-          "part_one_text": "Lily is a young girl living an ordinary life. One day, she learns a big secret her family has been hiding: she comes from an ancient line of wizards and has magical abilities.",
-          "part_seven_text": "",
-          "part_six_text": "",
-          "part_three_image": "https://raw.githubusercontent.com/esrabildik/data/main/f2.3.svg",
-          "part_three_text": "During their investigation, Lily and Jack discover an ancient and powerful magical artifact hidden in the depths of the school. This artifact holds great power that could allow dark forces to seize control. Lily and Jack embark on a great struggle to protect this artifact and prevent it from falling into the hands of the dark forces.",
-          "part_two_image": "https://raw.githubusercontent.com/esrabildik/data/main/f2.1.svg",
-          "part_two_text": " Lily is accepted into a secret wizarding school to discover and develop these abilities.",
-          "title": "School of Wizards"
-        },
-        "id": 9,
-        "isFavorite": false,
-        "level": "B1",
-        "picUrl": "https://raw.githubusercontent.com/esrabildik/data/main/f2.2.svg",
-        "title": "School of Wizards"
       },
       {
         "details": {
